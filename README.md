@@ -3,10 +3,15 @@ This is a web application built with Python and Django that uses the SpeechRecog
 
 ## Requirements
 Python (3.8 or higher)
+
 Django (3.2 or higher)
+
 SpeechRecognition (3.8.1 or higher)
+
 PyDub (0.25.1 or higher)
+
 Requests (2.25.1 or higher)
+
 FFMpeg (4.2 or higher)
 
 ## Installation
