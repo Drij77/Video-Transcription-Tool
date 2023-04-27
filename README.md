@@ -16,7 +16,11 @@ FFMpeg (4.2 or higher)
 
 ## Installation
 Clone the repository to your local machine.
+
 Create a new virtual environment and activate it.
+
 Install the required packages using pip install -r requirements.txt.
+
 Run the development server using python manage.py runserver.
+
 Open a web browser and navigate to http://localhost:8000.
